@@ -1,0 +1,50 @@
+Project Name: Young Hero
+
+Tool 1: Number Guessing Game
+This tool allows the user to guess a secret number between 1 and 10 until they guess correctly.
+
+Tool 2: To-Do List
+This tool allows the user to add tasks, view tasks, and remove tasks using a list.
+
+Tool 3: Simple Calculator
+This tool allows the user to calculate the sum, difference, product, or division of two numbers.
+
+MENU TEXT:
+Welcome to my Young Hero!
+
+1. Number Guessing Game
+2. To-Do List
+3. Simple Calculator
+4. Quit
+
+Choose an option (1-4):
+
+CONCEPTS USED:
+
+Number Guessing Game:
+- while loop
+- if / elif / else
+- input()
+- integer conversion
+- f-strings
+
+To-Do List:
+- list
+- list.append()
+- list.pop()
+- for loop
+- conditionals
+- f-strings
+
+Simple Calculator:
+- input()
+- float conversion
+- if / elif / else
+- arithmetic operators
+- f-strings
+
+Menu:
+- while loop
+- if / elif / else
+- input()
+- invalid choice handling
